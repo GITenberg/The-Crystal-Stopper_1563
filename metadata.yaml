@@ -1,0 +1,41 @@
+_repo: The-Crystal-Stopper_1563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: "The Crystal Stopper is a mystery novel by Maurice Leblanc featuring\
+  \ the adventures of the gentleman thief Arsène Lupin. The novel appeared in serial\
+  \ form in the French newspaper Le Journal from September to November 1912 and was\
+  \ released as a novel subsequently. Maurice Leblanc was inspired by the infamous\
+  \ Panama scandals of 1892 and 1893. The novel borrows from Edgar Allan Poe's short\
+  \ story The Purloined Letter the idea of hiding an object in plain sight.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1563'
+  wikidata: Q726902
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Burglars -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Crystal Stopper
+url: http://www.gutenberg.org/ebooks/1563
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Bouchon_de_cristal
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%AF%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%83%D8%B1%D8%B3%D8%AA%D8%A7%D9%84%D9%8A%D8%A9
+- https://en.wikipedia.org/wiki/The_Crystal_Stopper
+- https://pl.wikipedia.org/wiki/Kryszta%C5%82owy_korek
+- https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%99%B6%E3%81%AE%E6%A0%93
